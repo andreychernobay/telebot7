@@ -1,5 +1,5 @@
 ================================================================
-Framework for extract data from vk.com (russian social network).
+Python wrapper for Telegram Bot API.
 ================================================================
 
 This is a Python wrapper for Telegram Bot API.
